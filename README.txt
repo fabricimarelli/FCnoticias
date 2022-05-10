@@ -20,3 +20,11 @@ NOTICIA:
 https://www.iprofesional.com/legales/361771-defensa-del-consumidor-imputo-a-mercado-libre-de-que-lo-acusa
 ---------------------------------------------------------------------------------------------------------------------
 ACTIVIDAD CLASE 5
+
+La problemática de esta semana consiste en reutilizar el documento HTML incluyendo el estilo CSS 
+de la semana anterior para lograr que al visualizar la página se vea idéntica al diario 
+original en sus diferentes tamaños utilizando Media Queries y metodología Mobile First.
+
+NOTICIA:
+https://www.iprofesional.com/legales/361771-defensa-del-consumidor-imputo-a-mercado-libre-de-que-lo-acusa
+---------------------------------------------------------------------------------------------------------------------
