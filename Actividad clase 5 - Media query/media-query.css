@@ -1,0 +1,12 @@
+@media screen and (min-width: 601px) and (max-width: 991px) {
+     
+      .section1{
+          float:left;
+          width: 48%;
+      }
+      .section2{
+          float:right;
+          width:50%;
+      }
+    
+  }

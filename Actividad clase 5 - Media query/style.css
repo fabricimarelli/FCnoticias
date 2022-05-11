@@ -1,6 +1,6 @@
 
 img{
-    width: auto;
+    max-width: 100%;
     max-height: 100%;
 }
 .imagen-encabezado {
@@ -26,14 +26,10 @@ h1{
     padding-left: 14px;
     padding-right: 14px;
     padding-bottom: 20px;
-    order: 2;
-    
-    
+    order: 2;   
 }
 
-.cuerpo-noticia {
 
-}
 
 
 .contenedor-cuerpo {
@@ -47,8 +43,7 @@ header{
     height: 64px;
     background-color: #151515;
     position: sticky;
-    top: 0;
-   
+    top: 0;   
 }
 .titulo-barra{
    font-weight: bold;
@@ -66,6 +61,8 @@ header{
 
 
 #lista1{
+    padding-top: 3%;
+    padding-left: 0%;
     font-weight:700;
     font-family: "Mada","Helvetica Neue","Helvetica","Arial",sans-serif;
     
@@ -77,7 +74,7 @@ header{
 
 #lista1 li{
     display: inline;
- 
+    
 }
 
 .autor{
